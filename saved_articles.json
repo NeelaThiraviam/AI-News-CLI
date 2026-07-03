@@ -1,6 +1,46 @@
 [
     {
-        "title": "OpenAI",
-        "url": "https://example.com"
+        "title": "OpenAI launches a new AI model",
+        "url": "https://example.com/article1",
+        "publishedAt": "2026-06-28T08:30:00Z",
+        "source": {
+            "name": "TechCrunch"
+        },
+        "favorite": true
+    },
+    {
+        "title": "AI is changing software development",
+        "url": "https://example.com/article2",
+        "publishedAt": "2026-06-28T09:15:00Z",
+        "source": {
+            "name": "The Verge"
+        }
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "PRNewswire"
+        },
+        "author": null,
+        "title": "Tsingke Biotech Hosts Shanghai Salon on Oligonucleotide Drugs, Spotlighting Next-Gen RNA Therapeutics",
+        "description": "SHANGHAI, June 30, 2026 /PRNewswire/ -- Tsingke Biotech recently hosted the Oligonucleotide Drug Salon at the Hilton Shanghai Zhangjiang, bringing together experts from academia, biopharmaceutical companies, investment firms, and industry service organization\u2026",
+        "url": "https://www.prnewswire.com/news-releases/tsingke-biotech-hosts-shanghai-salon-on-oligonucleotide-drugs-spotlighting-next-gen-rna-therapeutics-302811515.html",
+        "urlToImage": "https://mma.prnewswire.com/media/3000916/image1.jpg?p=facebook",
+        "publishedAt": "2026-06-30T14:17:00Z",
+        "content": "SHANGHAI, June 30, 2026 /PRNewswire/ -- Tsingke Biotech recently hosted the Oligonucleotide Drug Salon at the Hilton Shanghai Zhangjiang, bringing together experts from academia, biopharmaceutical co\u2026 [+6445 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Ibtimes.com.au"
+        },
+        "author": "George Anton",
+        "title": "monday.com Shares Rise Sharply as Work Management Platform Benefits from Enterprise Adoption",
+        "description": "monday.com shares rose over 7% due to strong AI integration and enterprise adoption, highlighting its growth in the collaborative work management market.",
+        "url": "https://www.ibtimes.com.au/monday-com-shares-surge-ai-integration-market-expansion-1871662",
+        "urlToImage": "https://d.ibtimes.com.au/en/full/1894941/mondaycom-shares-rise-sharply-work-management-platform-benefits.jpg",
+        "publishedAt": "2026-07-01T14:12:37Z",
+        "content": "NEW YORK \u2014 Shares of monday.com Ltd. advanced more than 7 percent Tuesday morning, trading around $77.59 as investors responded to the company's strong positioning in the collaborative work managemen\u2026 [+5998 chars]",
+        "favorite": false
     }
 ]
