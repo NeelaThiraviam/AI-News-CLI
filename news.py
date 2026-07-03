@@ -1,6 +1,5 @@
 import requests
-
-API_KEY = "835e450fecec4eda9d27c9a0679e85b3"
+from config import API_KEY
 
 BASE_URL = "https://newsapi.org/v2/everything"
 
